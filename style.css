@@ -82,6 +82,10 @@
     left: 15%;
 }
 
+figure {
+    margin: 0;
+}
+
 .contents .header1 {
     grid-area: header1;
 }
