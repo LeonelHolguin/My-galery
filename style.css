@@ -86,40 +86,17 @@
     grid-area: header1;
 }
 
-.contents .header1 img{
-    width: 100%;
-    height: 100%;
-    border-radius: 12px;
-}
 
 .contents .header2 {
     grid-area: header2;
-}
-
-.contents .header2 img {
-    width: 100%;
-    height: 100%;
-    border-radius: 12px;
 }
 
 .contents .main {
     grid-area: main;
 }
 
-.contents .main img{
-    width: 100%;
-    height: 100%;
-    border-radius: 12px;
-}
-
 .contents .aside {
     grid-area: aside;
-}
-
-.contents .aside img{
-    width: 100%;
-    height: 100%;;
-    border-radius: 12px;
 }
 
 .contents .footer1 {
@@ -130,13 +107,11 @@
     grid-area: footer2;
 }
 
-.contents .footer1 img,
-.contents .footer2 img{
+.contents .img-contents {
     width: 100%;
     height: 100%;
     border-radius: 12px;
 }
-
 
 footer {
     display: flex;
