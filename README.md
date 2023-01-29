@@ -1,18 +1,18 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 style="text-align: center">{Your project name}</h1>
 
-<div align="center">
+<div style="text-align: center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 </div>
 
-<div align="center">
+<div style="text-align: center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://my-galery-nu.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/MQk6NfYqb6AQW8hEDbrW">
       Solution
     </a>
     <span> | </span>
@@ -40,18 +40,17 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- Where can I see your demo? In vercel, It's the link: https://my-galery-nu.vercel.app/
+- What was your experience? What can I say, good I guess.
+- What have you learned/improved? Just practice my skills in projects responsives
+- Your wisdom? flexbox > grid
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/es/docs/Web/CSS)
 
 ## Features
 
