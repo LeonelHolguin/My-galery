@@ -1,12 +1,12 @@
 <!-- Please update value in the {}  -->
 
-<h1 style="text-align: center">My Gallery</h1>
+<h1 align="center">My Gallery</h1>
 
-<div style="text-align: center">
+<div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 </div>
 
-<div style="text-align: center">
+<div align="center">
   <h3>
     <a href="https://my-galery-nu.vercel.app/">
       Demo
